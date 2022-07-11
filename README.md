@@ -1,7 +1,7 @@
 
 - 👨‍🎓 Atualmente cursando Análise e Desenvolvimento de Sistema;
-- 🖥 tecnologias aprendidas: HMTL e CSS3;
-- 🔗 Atualmente estudando JavaScript.
+- 🖥 tecnologias aprendidas: HMTL, CSS3 e JavaScript;
+- 🔗 Atualmente estudando NodeJs e Depois ReactJs.
 
 <div align="center">
   <a href="https://github.com/igorVtermions">
