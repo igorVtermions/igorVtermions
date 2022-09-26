@@ -1,8 +1,8 @@
 
 - 👨‍🎓 Atualmente cursando Análise e Desenvolvimento de Sistema;
 - 👨‍💻 Curso Full-Stack concluído no Tech Academy;
-- 🖥 tecnologias aprendidas: HMTL, CSS3, JavaScript, NodeJS e Bootstrap;
-- 🔗 Atualmente estudando NodeJs, MySQL e dando inicio no ReactJs.
+- 🖥 tecnologias aprendidas: HMTL, CSS3, JavaScript, NodeJS, ReactJs e MySQL;
+- 🔗 Atualmente estudando NodeJs, MySQL e ReactJs.
 
 <div align="center">
   <a href="https://github.com/igorVtermions">
@@ -15,7 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   </div>
   
