@@ -1,7 +1,7 @@
 
 - 👨‍🎓 Atualmente cursando Análise e Desenvolvimento de Sistema;
 - 👨‍💻 Curso Full-Stack concluído no Tech Academy;
-- 🖥 tecnologias aprendidas: HMTL, CSS3, JavaScript, NodeJS, ReactJs e MySQL;
+- 🖥 tecnologias aprendidas: HMTL, CSS3, JavaScript, NodeJS e ReactJs;
 - 🔗 Atualmente estudando NodeJs, MySQL e ReactJs.
 
 <div align="center">
