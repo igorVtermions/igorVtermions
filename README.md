@@ -4,11 +4,10 @@
 - 🖥 tecnologias aprendidas: HMTL, CSS3, JavaScript e ReactJs;
 - 🔗 Atualmente me aperfeiçoando em ReactJs.
 
-<div align="center">
- <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorVtermions&theme=tokyonight"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorVtermions&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorVtermions&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorVtermions&theme=tokyonight&hide_border=true"/>
 
-</div>
+
+![igorVtermions Status](https://github-readme-stats.vercel.app/api?username=igorVtermions&show_icons=true&theme=radical&layout=compact)
+ [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorVtermions&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
   
   <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
