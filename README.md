@@ -1,7 +1,7 @@
 
 - 👨‍🎓 Atualmente cursando Análise e Desenvolvimento de Sistema;
 - 👨‍💻 Curso Full-Stack concluído no Tech Academy;
-- 🖥 tecnologias aprendidas: HMTL, CSS3, JavaScript, Typescript e ReactJs;
+- 🖥 tecnologias aprendidas: HMTL, CSS3, JavaScript, Typescript, ReactJs e SASS;
 - 🔗 Atualmente me aperfeiçoando em ReactJs.
 
 
@@ -15,6 +15,7 @@
      <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
      <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
      <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+     <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   </div>
   
   ##
