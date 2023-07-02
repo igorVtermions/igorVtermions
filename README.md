@@ -1,4 +1,4 @@
-# 💫 Sobre nós:
+# 💫 Sobre:
 👨‍🎓 Atualmente cursando Análise e Desenvolvimento de Sistema;<br>🖥 tecnologias aprendidas: HMTL, CSS3, JavaScript, Typescript, ReactJs e SASS;<br>🔗 Atualmente estudando Node.
 
 
