@@ -1,5 +1,19 @@
 # 💫 Sobre:
-👨‍🎓 Formado em Ánalise e Desenvolvimento de sistmeas;<br><br>✽ Sou apaixonado por programação, com foco em desenvolvimento back-end e sólido domínio das tecnologias Java, MySQL e Spring. Com habilidades aprimoradas ao longo do tempo, busco oportunidades para aplicar meu conhecimento e contribuir para projetos inovadores. Além disso, possuo experiência e conhecimento em desenvolvimento front-end utilizando JavaScript, CSS, Sass, React e HTML, o que me permite ter uma visão abrangente do desenvolvimento de software e Web, uma capacidade de colaboração em equipe. Sou entusiasta de boas práticas de versionamento de código e colaboração, utilizando Git e GitHub de forma eficiente para gerenciar projetos e contribuições.;<br><br>🖥 Minhas Tech: Java, MySQL, Spring HMTL, CSS3, JavaScript e ReactJs;<br><br>🔗 Atualmente estudando Node.
+👨‍🎓 Formado em Ánalise e Desenvolvimento de sistmeas;<br><br> ✽ Sobre Mim
+
+Sou apaixonado por programação, com foco tanto no desenvolvimento front-end quanto no desenvolvimento back-end. Tenho um sólido domínio das seguintes tecnologias:
+
+Com habilidades aprimoradas ao longo do tempo, busco oportunidades para aplicar meu conhecimento e contribuir para projetos inovadores. Meu conhecimento me permite ter uma visão abrangente do desenvolvimento de software e web, além de uma forte capacidade de colaboração em equipe.
+
+Sou entusiasta de boas práticas de versionamento de código e colaboração, utilizando Git e GitHub de forma eficiente para gerenciar projetos e contribuições.
+
+## Minhas Tecnologias
+
+🖥 **Minhas Techs**:
+- **Linguagens**: Java, JavaScript, TypeScript
+- **Frameworks e Bibliotecas**: Spring, React, Next.js
+- **Banco de Dados**: MySQL
+- **Web**: HTML, CSS, Sass
 
 
 ## 🌐 Minhas mídias:
