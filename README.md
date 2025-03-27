@@ -1,29 +1,39 @@
-# 💫 Sobre:
-👨‍🎓 Formado em Ánalise e Desenvolvimento de sistmeas;<br><br> ✽ Sobre Mim
+# 👋 Olá, eu sou Igor Vinicius!
 
-Sou apaixonado por programação, com foco tanto no desenvolvimento front-end quanto no desenvolvimento back-end. Tenho um sólido domínio das seguintes tecnologias:
+Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e inovação. Minha especialidade é criar aplicações web escaláveis e performáticas, utilizando as melhores práticas de desenvolvimento.
 
-Com habilidades aprimoradas ao longo do tempo, busco oportunidades para aplicar meu conhecimento e contribuir para projetos inovadores. Meu conhecimento me permite ter uma visão abrangente do desenvolvimento de software e web, além de uma forte capacidade de colaboração em equipe.
+## 🚀 Tecnologias & Ferramentas
 
-Sou entusiasta de boas práticas de versionamento de código e colaboração, utilizando Git e GitHub de forma eficiente para gerenciar projetos e contribuições.
+### **Front-End:**
+- ⚡ HTML, CSS, SCSS, Tailwind CSS
+- ⚛️ JavaScript, TypeScript, React.js, Next.js
+- 🖥️ Design Systems e Microfrontends
 
-## Minhas Tecnologias
+### **Back-End:**
+- 🚀 Node.js, Express.js, Java, Spring Boot
+- 🛢️ MySQL (Banco de Dados Relacional)
+- 🔗 API REST e Microsserviços
 
-🖥 **Minhas Techs**:
-- **Linguagens**: Java, JavaScript, TypeScript
-- **Frameworks e Bibliotecas**: Spring, React, Next.js
-- **Banco de Dados**: MySQL
-- **Web**: HTML, CSS, Sass
+### **Ferramentas & Metodologias:**
+- 🛠️ Git, GitHub, CI/CD
+- 📌 Scrum, Kanban
+- 🧪 Testes Unitários e E2E
 
+## 🔥 Sobre Mim
 
-## 🌐 Minhas mídias:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/igor-vinicius-574657232/) 
+💡 Tenho experiência no desenvolvimento de projetos Full-Stack, sempre buscando aprimorar minhas habilidades e contribuir para a comunidade de tecnologia. Sou adepto do aprendizado contínuo e apaixonado por criar soluções eficientes e inovadoras.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=%ff69b4)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=igorVtermions&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=igorVtermions&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=igorVtermions&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+💻 Atualmente estou me aprofundando em **Arquitetura de Software** e **Desenvolvimento de Sistemas Escaláveis**.
+
+📫 **Entre em contato comigo:**
+- 📩 Email: igorviniciusf10@gmail.com
+- 🔗 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/igor-vinicius-574657232/)
+
+## ⚡ Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorVtermions&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorVtermions&layout=compact&theme=radical)
+
+🚀 *Sempre em busca de novos desafios e aprendizado!*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
